@@ -5,7 +5,7 @@ public class PlayerCamera : Camera2D
 {
     // Declare member variables here. Examples:
     // private int a = 2;
-    // private string b = "text";
+    // private string b = "texte";
     private static Player player;
     private Vector2 screenSize;
 
